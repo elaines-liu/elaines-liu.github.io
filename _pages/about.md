@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:
+subtitle: elainexxx@stanford.edu, replace xxx with lastname
 
 profile:
   align: right
