@@ -27,7 +27,7 @@ latest_posts:
 
 I am a second year PhD student in Management Science & Engineering at Stanford University, fortunate to be advised by [Itai Ashlagi](https://web.stanford.edu/~iashlagi). I am interested in market design, game theory, and applied probability. I'm especially excited about dynamics in marketplaces and the economics of AI.
 
-Prior to Stanford, I earned a Bachelor's degree in Mathematics and EECS at MIT, where I had the pleasure to work with wonderful people like [Yibo Gao](http://faculty.bicmr.pku.edu.cn/~gaoyibo), [Marija Ilic](https://eesg.mit.edu/marija-ilic), [Jorn Dunkel](https://math.mit.edu/~dunkel/), and [Shrifa Alghowinem](https://www.linkedin.com/in/sharifa-alghowinem-14a74151/).
+Prior to Stanford, I earned a Bachelor's degree in Mathematics and EECS at MIT, where I had the pleasure to work with brilliant people like [Yibo Gao](http://faculty.bicmr.pku.edu.cn/~gaoyibo), [Marija Ilic](https://eesg.mit.edu/marija-ilic), [Jorn Dunkel](https://math.mit.edu/~dunkel/), and [Shrifa Alghowinem](https://www.linkedin.com/in/sharifa-alghowinem-14a74151/). I spent summer 2024 at EPFL, working with [Maximilien Dreveton](https://www.maximiliendreveton.fr/) and [Patrick Thiran](https://people.epfl.ch/patrick.thiran).
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
