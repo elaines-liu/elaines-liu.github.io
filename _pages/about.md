@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: elainexxx@stanford.edu, replace xxx with lastname
 
