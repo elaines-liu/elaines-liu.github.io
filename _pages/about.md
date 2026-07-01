@@ -25,7 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a second year PhD student in Management Science & Engineering at Stanford University, fortunate to be advised by [Itai Ashlagi](https://web.stanford.edu/~iashlagi). I work on matching and market design, using tools from game theory and applied probability. I'm especially excited about dynamics in marketplaces and the economics of AI.
+I am a second year PhD student in Management Science & Engineering at Stanford University, fortunate to be advised by [Itai Ashlagi](https://web.stanford.edu/~iashlagi). 
+
+
+I work on matching and market design, using tools from game theory and applied probability. I'm especially excited about congestion, dynamics in marketplaces and the economics of AI.
 
 Prior to Stanford, I earned a Bachelor's degree in Mathematics (course 18) and EECS (course 6-2) at MIT, and I spent summer 2024 at EPFL. I worked on a few projects in algebraic combinatorics, applied probabilities, data science, and power systems.
 
