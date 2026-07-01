@@ -253,6 +253,17 @@
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
+      {% if entry.custom_links %}
+        {% assign custom_links = entry.custom_links | split: ';' %}
+        {% for custom_link in custom_links %}
+          {% assign link_parts = custom_link | split: '|' %}
+          {% assign link_label = link_parts[0] | strip %}
+          {% assign link_url = link_parts[1] | strip %}
+          {% if link_label != blank and link_url != blank %}
+            <a href="{{ link_url }}" class="btn btn-sm z-depth-0" role="button">{{ link_label }}</a>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
     </div>
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}
