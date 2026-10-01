@@ -25,12 +25,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a second year PhD student in Management Science & Engineering at Stanford University, fortunate to be advised by [Itai Ashlagi](https://web.stanford.edu/~iashlagi). 
+I am a third year PhD candidate in Operations Research, in the Management Science & Engineering department at Stanford University. I'm fortunate to be advised by [Itai Ashlagi](https://web.stanford.edu/~iashlagi). I work on matching and market design, and I am especially interested in applications in kidney exchange, dating and labor markets, as well as ride-sharing. 
 
-
-I'm interested in matching and market design. I use tools from game theory and applied probability to study congestion in matching markets. 
-
-Prior to Stanford, I studied Mathematics (course 18) and EECS (course 6-2) at MIT, and I spent summer 2024 at EPFL. I've worked on a few projects in algebraic combinatorics, applied probability, data science, and power systems.
+Prior to Stanford, I studied Mathematics (course 18) and EECS (course 6-2) at MIT, and I spent summer 2024 at EPFL. I've worked on projects in algebraic combinatorics, applied probability, data science/AI, and power systems.
 
 Feel free to reach out if you would like to collaborate or chat!
 
